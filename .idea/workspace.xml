@@ -21,9 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0b656cd-7c85-47e9-809a-a3a411a5790a" name="Changes" comment="Hw">
+      <change afterPath="$PROJECT_DIR$/noname.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,9 @@
       <workItem from="1683293111196" duration="26000" />
       <workItem from="1683302899263" duration="20000" />
       <workItem from="1683303185754" duration="65000" />
+      <workItem from="1683305056988" duration="596000" />
+      <workItem from="1683308280266" duration="95000" />
+      <workItem from="1684069743434" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Hw">
       <created>1683131480253</created>
