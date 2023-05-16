@@ -1,4 +1,4 @@
-//#include <iostream>
+ //#include <iostream>
 //using namespace std;
 //#include <time.h>
 //zadanie 1
