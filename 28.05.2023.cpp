@@ -16,7 +16,7 @@ private:
     string groupnumber;
 public:
     Student(){}
-    void input(){
+    void add(){
         cout << "add student details:\n";
         cout << "first Name: ";
         cin >> name;
@@ -41,7 +41,7 @@ public:
         cout << "group number: ";
         cin >> groupnumber;
     }
-    void display(){
+    void print(){
         cout << "student details:\n";
         cout << "name: " << name << endl;
         cout << "surname: " << surname << endl;
