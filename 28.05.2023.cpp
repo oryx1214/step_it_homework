@@ -53,7 +53,7 @@ public:
         cout << "university name: " << universityname << endl;
         cout << "university city: " << universitycity << endl;
         cout << "university country: " << universitycountry << endl;
-        cout << "group Number: " << groupnumber << endl;
+        cout << "group number: " << groupnumber << endl;
     }
     string getname() const{return name; }
     string getsurname() const{return surname; }
