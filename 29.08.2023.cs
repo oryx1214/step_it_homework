@@ -1,4 +1,4 @@
-﻿//task 1
+﻿﻿//task 1
 
 /*
 Console.WriteLine("choose your number from 1 to 100");
