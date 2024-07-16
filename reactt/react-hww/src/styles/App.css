@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie-item {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+
+.movie-detail {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.movie-detail img {
+  max-width: 100%;
+}
